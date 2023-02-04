@@ -23,4 +23,7 @@ This data source was collected from Autopart's WMS Operator Analysis.
 |     Avg Lines         |     Average amount of lines the operator receives on documents.                          |
 
 
-![Image1](Operations by Department.png)
+![Operations by Department.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operations%20by%20Department.png)
+![Warehouse Pullers VS Routes and HotShot.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Warehouse%20Pullers%20VS%20Routes%20and%20Hotshot.png)
+![Operators by Units Received in Goods-In.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20Units%20Received%20in%20Goods-In.png)
+![Operators by lines per hour.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20lines%20per%20hour.png)
