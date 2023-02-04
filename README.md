@@ -30,6 +30,7 @@ Data Dictionary:
 |     Avg Lines         |     Average amount of lines completed by operator.                                                     |
 
 
+# Operations by Department
 ![Operations by Department.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operations%20by%20Department.png)
 
 This visualization shows `Warehouse Pickers`, `Routes/Hotshot Pickers`, and `Outside Help (Shipping Department Employee's, Managers, etc)` compared against eachother, by Documents pulled, Lines Completed, and Units pulled each document. I will break each set of graphs by deparment to make this easier to process:
