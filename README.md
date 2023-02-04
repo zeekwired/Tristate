@@ -1,4 +1,4 @@
-# TS2 Operator Analysis
+# TS2 Operator Analysis December 1, 2022 - Feburary 2, 2023
 
 by Zach Dawson
 
