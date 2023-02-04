@@ -21,3 +21,6 @@ This data source was collected from Autopart's WMS Operator Analysis.
 |     Total Time        |     This column is the total amount of time that the operator used   WMS application.    | 
 |     Lines/Hr          |     This calculates the average lines per hour an operator has   completed.              |   
 |     Avg Lines         |     Average amount of lines the operator receives on documents.                          |
+
+
+![Image1](Operations by Department.png)
