@@ -1,5 +1,7 @@
 # TS2 Operator Analysis December 1, 2022 - Feburary 2, 2023
 
+---
+
 ![WebLogo.png](https://github.com/zeekwired/Tristate/blob/3afaf79e6201849bc0266f78b1edf21112887f5c/WebLogo.png)
 
 by Zach Dawson (TS2)
