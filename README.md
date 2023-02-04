@@ -66,6 +66,23 @@ Now for this graph you can tell there is a huge different in units being pulled 
 # **Outside Help**:
 
 For this section of graph it is everyone outside the Warehouse and Routes/Hotshot departments. 
+
+# Warehouse Pullers VS. Routes/Hotshot 
 ![Warehouse Pullers VS Routes and HotShot.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Warehouse%20Pullers%20VS%20Routes%20and%20Hotshot.png)
+
+# **WareHouse Pullers**:
+
+## **Lines/Hr**:
+
+It appears that unlike in the last visualiztion `TLZM`, `ALT`, and `AXA` are the highest ranking operators. `ALT` seems to be the fastest full-time puller averaging `60 lines/Hr`. Even though, `TBD` and `RLL` dominated the visualization scoring the highest rank. It would appear that speed and how many lines per hour an operator obtains.
+
+# **Routes/Hotshot**:
+
+## **Lines/Hr**:
+
+For Routes/Hotshot, `JEH` has an average of `47` lines/Hr, while `MAT` has and average of `22` lines/Hr.
+
+The other graphs give the same results as the ones above in `Operations by Department` in percentages.
+
 ![Operators by Units Received in Goods-In.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20Units%20Received%20in%20Goods-In.png)
 ![Operators by lines per hour.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20lines%20per%20hour.png)
