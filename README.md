@@ -6,7 +6,7 @@
 
 by Zach Dawson (TS2)
 
-This is an analysis of each department and there performances throughout the months of Nov 2022-Feb 2023. This analysis will help gain insight of our departments progression and what problems need to be address in the future. This is a difficult task for a business to do without the proper tools to create visuals to better understand there trends and rankings within a company. 
+This is an analysis of each department and their performances throughout the months of Nov 2022-Feb 2023. By analysing our departments' progress, we can gain insight into future problems. Creating visuals to understand trends and rankings within a company is difficult for a business without the proper tools.
 
 Data Source:
 
