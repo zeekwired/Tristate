@@ -89,6 +89,15 @@ For Routes/Hotshot, `JEH` has an average of `47` lines/Hr, while `MAT` has and a
 
 The other graphs give the same results as the ones above in `Operations by Department` in percentages.
 
+# Units by Total Time by Operator
+![Pulling Shift.png](https://github.com/zeekwired/Tristate/blob/215ecd8d2c30e509056e691663a480918f3f0e65/Pulling%20shifts.png)
+
+# Warehouse Pickers:
+
+# Routes/Hotshot:
+
+# Outside Help:
+
 ---
 # Stockers
 ---
