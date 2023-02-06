@@ -29,8 +29,11 @@ Data Dictionary:
 |     Lines/Hr          |     This calculates the average lines per hour an operator has completed.                              |   
 |     Avg Lines         |     Average amount of lines completed by operator.                                                     |
 
+# Pickers
 
-# Operations by Department
+---
+
+# Picking Operations by Department
 ![Operations by Department.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operations%20by%20Department.png)
 
 This visualization shows `Warehouse Pickers`, `Routes/Hotshot Pickers`, and `Outside Help (Shipping Department Employee's, Managers, etc)` compared against eachother, by Documents pulled, Lines Completed, and Units pulled each document. I will break each set of graphs by deparment to make this easier to process:
@@ -67,6 +70,8 @@ Now for this graph you can tell there is a huge different in units being pulled 
 
 For this section of graph it is everyone outside the Warehouse and Routes/Hotshot departments. 
 
+---
+
 # Warehouse Pullers VS. Routes/Hotshot 
 ![Warehouse Pullers VS Routes and HotShot.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Warehouse%20Pullers%20VS%20Routes%20and%20Hotshot.png)
 
@@ -84,7 +89,42 @@ For Routes/Hotshot, `JEH` has an average of `47` lines/Hr, while `MAT` has and a
 
 The other graphs give the same results as the ones above in `Operations by Department` in percentages.
 
-![Operators by Units Received in Goods-In.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20Units%20Received%20in%20Goods-In.png)
-![Operators by lines per hour.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20lines%20per%20hour.png)
-![Stocking Shifts.png](https://github.com/zeekwired/Tristate/blob/30a0c3e0a1af2267b3bcaea5bc87b03f399af0c3/Stocking%20Shifts.png)
+---
+# Stockers
+---
 
+# Operators by Units Received in Goods-in
+![Operators by Units Received in Goods-In.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20Units%20Received%20in%20Goods-In.png)
+# Night Shift
+Judging by the graph it seems that `JBC` and `TLH` are the top stockers on the night crew. Averaging between 7,000 and 8,000 units seems to be the range for stockers within this date range.
+
+# Day Shift
+Day crew `BSE` seems to lead the team in the number of units stocked. The amount of units being stocked by `BSE` can also be compared to the amount of units `RAH` is stocking on the night shift. In the event that BSE were to move to night shift, his performance could be compared with that of the third highest performing night shift stocker.
+
+# Pullers
+Out of the pullers `FLB` has the highest units stocked. Pickers are not subject to this analysis for stockers but this could help for future insight on decisions to reward operators at the end of the month.
+
+# Others
+This visual represents operators outside the scope of the other three graphs.
+---
+
+# Operators by Lines/Hr in Goods-In
+![Operators by lines per hour.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20lines%20per%20hour.png)
+# Night Shift
+
+# Day Shift
+
+# Pullers
+
+# Others
+
+---
+# Units by Total Time in Goods-In
+![Stocking Shifts.png](https://github.com/zeekwired/Tristate/blob/30a0c3e0a1af2267b3bcaea5bc87b03f399af0c3/Stocking%20Shifts.png)
+# Night Shift
+
+# Day Shift
+
+# Pullers 
+
+# Others
