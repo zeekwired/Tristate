@@ -93,11 +93,13 @@ The other graphs give the same results as the ones above in `Operations by Depar
 ![Pulling Shift.png](https://github.com/zeekwired/Tristate/blob/2c3d66c3d6bd0139be86c950416234adbafbf4ff/Pulling%20shifts.png)
 
 # Warehouse Pickers:
+Looking at the amount of units being pulled by time. `TBD` has the second highest hours worked but also the highest units pulled. Note that `FLB` has the second highest hours worked, but has one of the lowest units pulled total.
 
 # Routes/Hotshot:
+In this graph it seems that `MAT` seems to have worked the most hours in picking adhoc. Dispite having these hours it seems like `HRB` tends to pull more units in a shorten time spent in picking adhoc.
 
 # Outside Help:
-
+This represents the amount of outside help from different departments within TS2.
 ---
 # Stockers
 ---
@@ -120,20 +122,13 @@ This visual represents operators outside the scope of the other three graphs.
 # Operators by Lines/Hr in Goods-In
 ![Operators by lines per hour.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20lines%20per%20hour.png)
 # Night Shift
-
+`RAH` seems to be leading the stockers with 59 lines per hour. It seems the average of the lines per hour in the nights shift crew is between 24-29 lines. Understanding the averages of employee work speed can help determine what qouta can be acheived.
 # Day Shift
-
+This graph is interesting. Our top ranking stockers in day shift to have the most units stocked is `BSE` and `GDM`. However, in this visualization it seems that both operators have the lowest lines per hour.
 # Pullers
-
+This graph represents what the speed of the pullers stocking to see if they can compete with day and night shift.
 # Others
-
+This is a visualization that shows operators outside of department.
 ---
 # Units by Total Time in Goods-In
 ![Stocking Shifts.png](https://github.com/zeekwired/Tristate/blob/30a0c3e0a1af2267b3bcaea5bc87b03f399af0c3/Stocking%20Shifts.png)
-# Night Shift
-
-# Day Shift
-
-# Pullers 
-
-# Others
