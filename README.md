@@ -86,3 +86,4 @@ The other graphs give the same results as the ones above in `Operations by Depar
 
 ![Operators by Units Received in Goods-In.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20Units%20Received%20in%20Goods-In.png)
 ![Operators by lines per hour.png](https://github.com/zeekwired/Tristate/blob/d69b69dc7c515b9f386cf689c4ec7f2b99bec569/Operators%20by%20lines%20per%20hour.png)
+![Stocking Shifts.png](Stocking%20Shifts.png)
